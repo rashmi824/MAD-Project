@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "165449556574",
+    "project_id": "black-rose-4ffab",
+    "storage_bucket": "black-rose-4ffab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165449556574:android:d0e7486f2f76afb6c38acf",
+        "android_client_info": {
+          "package_name": "com.example.my_grocery_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165449556574-moo2i4nir3t4gbtb1apoatpcuo4nj70a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhVxEdWuF0wNrFhmbCpFyvb4PpuS6CiSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "165449556574-moo2i4nir3t4gbtb1apoatpcuo4nj70a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

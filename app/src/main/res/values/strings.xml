@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My_Grocery_App</string>
+    <string name="my_grocery_app">My Grocery App</string>
+    <string name="here_grocery_becomes_simple">Here Grocery Becomes Simple</string>
+    <string name="register">Register</string>
+    <string name="signin">Sign In</string>
+</resources>
